@@ -1,7 +1,7 @@
 # Rangel's repository
 
 [![Rangel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattRangell&show_icons=true&theme=tokyonight)](https://github.com/MattRangell/github-readme-stats) <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattRangell&show_icons=true&theme=tokyonight)](https://github.com/MattRangell/github-readme-stats) -->
-<img align="right" alt="octocat" height="400" style="border-radius:50;" src="https://github.com/MattRangell/MyOctocat/blob/main/myOctocat.png ">
+<!--<img align="right" alt="octocat" height="400" style="border-radius:50;" src="https://github.com/MattRangell/MyOctocat/blob/main/myOctocat.png "> -->
 
 <!-- <img align="right" alt="Fresh" height="200" style="border-radius:50px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNlMTFkMTUzYTQ4NTg5YmQwMGVjODc2YzU4MzEwMmE5ODY0MDRjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/BoPUZQRQEPogo/giphy.gif?width=676&height=676"> -->
 
